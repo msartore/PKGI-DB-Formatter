@@ -17,7 +17,7 @@ Content ID,0,Name,Description,.RAP file,File Size,SHA256
 
 Convert command:
 ```
-PKGI-Formatter.py c <source> <dest>
+PKGI-Formatter.py c <source> <dest> <type of file (GAME or DLC..)>
 ```
 Merge command:
 ```
